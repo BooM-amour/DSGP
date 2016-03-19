@@ -5,7 +5,7 @@ local function callback(extra, success, result)
 end
     function run(msg, matches)
         if not is_momod or not is_owner then
-    return "Only Onwers Can Add iman!"
+    return "Only Onwers Can Add DANY!"
 end
     local user = 'user#id124464490'
     local chat = 'chat#id'..msg.to.id
